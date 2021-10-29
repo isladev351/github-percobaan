@@ -1,2 +1,3 @@
 nama :islaturrahman
 alamat :lameambo
+status : pelajar
